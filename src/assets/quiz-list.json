@@ -18,9 +18,9 @@
     "fileName": "islands.json"
     },
     {
-    "label": "Spices",
-    "name": "spices",
-    "description": "Questions about spices",
-    "fileName": "spices.json"
+    "label": "History",
+    "name": "history",
+    "description": "History questionss",
+    "fileName": "history.json"
     }
   ]
